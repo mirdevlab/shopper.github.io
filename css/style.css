@@ -1,0 +1,185 @@
+/*Change Navigation Color */
+.navbar #myMenu .custom-nav .nav-item a{
+	color: #fff;
+	margin-left: 20px;
+}
+
+li a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+.custom-nav{
+	margin-right: 100px;
+}
+
+/*Change Logo Margin */
+
+.navbar-brand{
+	margin-left: 100px;
+}
+
+/*Make Header Image Responsive */
+.backimg{
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 700px;
+	
+
+}
+.marpt {
+	padding-top: 300px;
+}
+
+/*Change Feature Jumbotron Section */
+
+.jmsize{
+	background-color:#A0A0A0;
+	margin-left: 30px;
+	margin-right: 30px;
+    margin-top: 50px;
+}
+
+.bg{
+	background-color: #F0F0F0 ;
+}
+
+#fontaw:hover {
+	opacity: 0.5;
+	transition: transform 1.5s;
+	-ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5);
+}
+
+.ftsize{
+	font-size: 80px;
+}
+.ftsize i:hover{
+	
+		transform: translateY(-20px);
+}
+
+#myImg:hover {
+	opacity: 0.5;
+	transition: transform 1.5s;
+	-ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+}
+
+/*Link Decoration */
+h6 a:hover {
+    text-decoration: none;
+}
+
+/*Newsletter Background Image Setting */
+
+.backimage{
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+	height: 250px;
+	margin-bottom: 20px; 
+}
+/*Newsletter Text Alignment */
+.txtalign{
+
+	padding-top: 100px;
+}
+.btn{
+	margin-left: 170px;
+}
+
+/*Blog Images Setting */
+
+div.img img{
+	width: 100%;
+	height: auto;
+	border-radius: 8px;
+	box-shadow: 10px 10px 5px grey;
+}
+
+div.img:hover {
+        transition: 1s ease-out;
+    	opacity: 0.7;
+}
+
+div .img a{
+	text-decoration: none;
+}
+.img a:hover{
+	color: #FF0000;
+}
+
+/*Change Contact Section Style */
+
+.setcontact{
+	padding-left: 3%;
+	background: black;
+	color: white;
+	margin-top: 5px;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.setcontact p{
+	margin-top: 20px;
+	color: #ccc;
+
+}
+
+.icon{
+	font-size: 40px;
+	padding-left: 5%;
+}
+.card-contact{
+	padding-top: 50px;
+	padding-right: 5%;
+	padding-left: 5%;
+	margin-right: 5%;
+	padding-bottom: 5%;
+
+
+}
+
+/*Footer Section Style */
+/*Change link color */
+.cs-link a{
+	color:red;
+}
+
+/*Change link Hover color */
+
+.cs-link a:hover{
+	color: #E994A2;
+}
+
+/*Change link color */
+.link-cl a{
+	color: red;
+}
+
+/*Change link Hover color */
+
+.link-cl a:hover{
+	color: #E994A2;
+}
+
+.btn1{
+	float: right;
+}
+.btn2{
+	margin-left: 1%;
+}
+
+.setproduct img:hover{
+		box-shadow: 0 0 20px 0 rgba(0,0,0,0.3);
+		transform: translateY(-20px);
+}
+
+
+
+
+
+
